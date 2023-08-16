@@ -6,4 +6,10 @@
   - Classification
   - Regression
   - Clustering
-- 
+
+
+## Recomendações
+
+- Livros
+  - Python para data science leigos
+  - Mãos a obra: Aprendizado de máquina com scikit-learn, keras e tensorflow
